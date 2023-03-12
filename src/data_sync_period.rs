@@ -1,5 +1,5 @@
 #[derive(Debug, Clone, Copy)]
-pub enum DataSyncronizationPeriod {
+pub enum DataSynchronizationPeriod {
     Immediately,
     Sec1,
     Sec5,
